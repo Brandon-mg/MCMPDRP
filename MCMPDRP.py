@@ -2,7 +2,7 @@ from pypresence import Presence
 import time
 import requests
 import json
-#discord api id
+#discord appid
 appID = "" 
 if appID=="":
     print("please add the required details")
