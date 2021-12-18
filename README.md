@@ -14,3 +14,11 @@ This script simply requests the status of a server using [mcapi.us](https://mcap
 Json example can be found on the mcapi site.
 
 Currently only checks if the server is running and player count every 5 minutes. Mcapi caches query results for five minutes anyways so reducing the timer will do nothing.
+
+## Instructions
+
+Follow PyPresence instructions to get your App ID
+
+edit the variables to add the App ID, server IP, and the server port.
+
+run the program, discord will change the profile activity, if theres no activity attach a program by adding it to discords activity settings.
