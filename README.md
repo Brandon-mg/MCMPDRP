@@ -19,6 +19,6 @@ Currently only checks if the server is running and player count every 5 minutes.
 
 Follow PyPresence instructions to get your App ID
 
-edit the variables to add the App ID, server IP, and the server port.
+Edit the variables to add the App ID, server IP, and the server port.
 
-run the program, discord will change the profile activity, if theres no activity attach a program by adding it to discords activity settings.
+Run the program, discord will change the profile activity, if theres no activity attach a program by adding it to discords activity settings.
