@@ -3,11 +3,11 @@ import time
 import requests
 import json
 #discord api id
-apiID = "" 
-if apiID=="":
+appID = "" 
+if appID=="":
     print("please add the required details")
     return
-RPC = Presence(apiID)
+RPC = Presence(appID)
 RPC.connect()
 #server ip
 ip=""
