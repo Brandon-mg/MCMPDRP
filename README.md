@@ -22,3 +22,4 @@ Follow PyPresence instructions to get your App ID
 Edit the variables to add the App ID, server IP, and the server port.
 
 Run the program, discord will change the profile activity, if theres no activity attach a program by adding it to discords activity settings.
+[![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)
